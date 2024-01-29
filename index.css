@@ -62,12 +62,13 @@ button
 
 .container
 {
-    width: 80%;
+    width: 30%;
     background: rgba(255, 255, 255, 0.274);
     margin: auto;
     border: 3px solid black;
     border-radius: 15px;
     height: auto;
+    padding-bottom: 20px;
 }
 
 #History
